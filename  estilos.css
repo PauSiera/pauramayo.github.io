@@ -1,0 +1,76 @@
+.html {
+	font-family: serif;
+	background-color: lightpink;
+}
+
+.body{
+	background-color: lightgray;
+}
+
+#menu li > a {
+	font-size: 18px;
+	color: lightpink;
+	font-family: serif;
+}
+
+
+#menu form > button {
+font-size: 18px;
+	font-weight: bold;
+}
+
+
+.carousel-inner {
+	max-height: 39rem;
+}
+
+
+#local {
+	background: #f3f3f3;
+	padding-bottom: 300px;
+	display: flex;
+	justify-content: center;
+}
+
+.wrapper {
+	width: 50%;
+	margin-left: 100px;
+	padding-top: 150px;
+}
+
+.table {
+	font-family: fantasy;
+}
+
+
+#encuesta {
+	background: lightpink;
+}
+
+
+@media (max-width:768px) {
+	#intro {
+		width: 90% !important;
+	}
+}
+
+
+
+.time {
+	align-content: center;
+}
+
+
+.mapa {
+	background-color: #E5E7E9;
+}
+
+
+
+
+
+
+
+
+
+
